@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+
+Command-Line:
+ - C:\Users\OS\.mcreator\gradle\jdks\eclipse_adoptium-17-amd64-windows.2\bin\java.exe
+ - -jar
+ - C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.7\3d41564f78f123d64573cae7948014baf3aaba3f\mergetool-1.1.7-fatjar.jar
+ - --client
+ - C:\Users\OS\.mcreator\gradle\caches\neoformruntime\intermediate_results\stripClient_8f4cc4e74eba65961b6ccf2feaa657070cdc950b_output.jar
+ - --server
+ - C:\Users\OS\.mcreator\gradle\caches\neoformruntime\intermediate_results\stripServer_5678e4b770f3507c86e6a9e9319bef3a09964cba_output.jar
+ - --ann
+ - 1.20.1
+ - --output
+ - ./output.jar
+ - --inject
+ - false
+--------------------------------------------------------------------------------
+

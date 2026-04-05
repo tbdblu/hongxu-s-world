@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hongxus_world:redworld",
+  "features": "hongxus_world:redtree",
+  "step": "surface_structures"
+}

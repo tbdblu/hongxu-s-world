@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Normalwatch"
+    },
+    "name": "basicwatch",
+    "namespace": "mod"
+  }
+}

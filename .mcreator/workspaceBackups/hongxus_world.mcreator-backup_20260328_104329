@@ -1,0 +1,1900 @@
+{
+  "mod_elements": [
+    {
+      "name": "Starbucks",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "starbucks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/StarbucksItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/starbucks.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Hongxu",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongxus_work",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ShouwoWanJiaWanChengShiYongWuPinShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shouwo_wan_jia_wan_cheng_shi_yong_wu_pin_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/ShouwoWanJiaWanChengShiYongWuPinShiProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Shouwo",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shouwo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/ShouwoItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/shouwo.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch1ShengWuBeiCiWuPinJiZhong",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_1_sheng_wu_bei_ci_wu_pin_ji_zhong",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/Watch1ShengWuBeiCiWuPinJiZhongProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Watch1",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Watch1Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/watch_1.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch500",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_500",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/watch_500.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Watch500Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/entity/WatchEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Redworld",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redworld",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/world/features/treedecorators/RedworldTrunkDecorator.java",
+          "src/main/resources/data/hongxus_world/worldgen/configured_feature/redworld_tree.json",
+          "src/main/resources/data/hongxus_world/worldgen/placed_feature/redworld_tree.json",
+          "src/main/java/net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator.java",
+          "src/main/resources/data/hongxus_world/worldgen/biome/redworld.json",
+          "src/main/java/net/mcreator/hongxusworld/world/features/treedecorators/RedworldLeaveDecorator.java"
+        ]
+      }
+    },
+    {
+      "name": "Redtreeleaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreeleaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/redtreeleaves.json",
+          "src/main/resources/assets/hongxus_world/blockstates/redtreeleaves.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedtreeleavesBlock.java",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redtreeleaves.json",
+          "src/main/resources/assets/hongxus_world/models/block/redtreeleaves.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Redtreesapling",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreesapling",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/block/redtreesapling.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedtreesaplingBlock.java",
+          "src/main/resources/assets/hongxus_world/models/item/redtreesapling.json",
+          "src/main/resources/assets/hongxus_world/blockstates/redtreesapling.json",
+          "src/main/java/net/mcreator/hongxusworld/block/grower/RedtreesaplingTreeGrower.java",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redtreesapling.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "RedtreeleavesFangKuaiBeiWanJiaPoPiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreeleaves_fang_kuai_bei_wan_jia_po_pi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/RedtreeleavesFangKuaiBeiWanJiaPoPiShiProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Redtreelog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreelog",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/blockstates/redtreelog.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedtreelogBlock.java",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redtreelog.json",
+          "src/main/resources/assets/hongxus_world/models/item/redtreelog.json",
+          "src/main/resources/assets/hongxus_world/models/block/redtreelog.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Redtree",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtree",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/worldgen/configured_feature/redtree.json",
+          "src/main/resources/data/hongxus_world/forge/biome_modifier/redtree_biome_modifier.json",
+          "src/main/resources/data/hongxus_world/worldgen/placed_feature/redtree.json"
+        ]
+      }
+    },
+    {
+      "name": "StrippedredtreeLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strippedredtree_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/strippedredtree_log.json",
+          "src/main/resources/assets/hongxus_world/models/item/strippedredtree_log.json",
+          "src/main/resources/assets/hongxus_world/blockstates/strippedredtree_log.json",
+          "src/main/resources/assets/hongxus_world/models/block/strippedredtree_log.json",
+          "src/main/java/net/mcreator/hongxusworld/block/StrippedredtreeLogBlock.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Redtreeplanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreeplanks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redtreeplanks.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedtreeplanksBlock.java",
+          "src/main/resources/assets/hongxus_world/models/item/redtreeplanks.json",
+          "src/main/resources/assets/hongxus_world/models/block/redtreeplanks.json",
+          "src/main/resources/assets/hongxus_world/blockstates/redtreeplanks.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "RedtreeleavesEWaiDeShouJiTiaoJian",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreeleaves_e_wai_de_shou_ji_tiao_jian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/RedtreeleavesEWaiDeShouJiTiaoJianProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Redtreeplank",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redtreeplank",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/redtreeplank.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Strippedredtreeplank",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strippedredtreeplank",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/strippedredtreeplank.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Torch",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/torch.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Shouwocreate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shouwocreate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/shouwocreate.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Sb",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/loot_tables/blocks/redtreelog.json"
+        ]
+      }
+    },
+    {
+      "name": "HPickaxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/h_pickaxe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Hsword",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/hsword.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Haxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "haxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/haxe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Hongore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hong_ore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/block/HongoreBlock.java",
+          "src/main/resources/assets/hongxus_world/blockstates/hong_ore.json",
+          "src/main/resources/assets/hongxus_world/models/block/hong_ore.json",
+          "src/main/resources/data/hongxus_world/worldgen/placed_feature/hong_ore.json",
+          "src/main/resources/assets/hongxus_world/models/item/hong_ore.json",
+          "src/main/resources/data/hongxus_world/worldgen/configured_feature/hong_ore.json",
+          "src/main/resources/data/hongxus_world/forge/biome_modifier/hong_ore_biome_modifier.json",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/hong_ore.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Hongingot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hong_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/hong_ingot.json",
+          "src/main/java/net/mcreator/hongxusworld/item/HongingotItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Burninghongore",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burninghongore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/burninghongore.json",
+          "src/main/resources/data/hongxus_world/advancements/recipes/burninghongore.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Hongpickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/hongpickaxe.json",
+          "src/main/java/net/mcreator/hongxusworld/item/HongpickaxeItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "HongpickaxeGongJuZaiShouShangShiMeiKeFaSheng",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongpickaxe_gong_ju_zai_shou_shang_shi_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/HongpickaxeGongJuZaiShouShangShiMeiKeFaShengProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Honsneyworker",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honsneyworker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/honsneyworker.json",
+          "src/main/resources/assets/hongxus_world/models/item/honsneyworker.json",
+          "src/main/resources/assets/hongxus_world/models/block/honsneyworker.json",
+          "src/main/resources/assets/hongxus_world/blockstates/honsneyworker.json",
+          "src/main/java/net/mcreator/hongxusworld/block/HonsneyworkerBlock.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Hx",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hx",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/hx_spawn_egg.json",
+          "src/main/java/net/mcreator/hongxusworld/entity/HxEntity.java",
+          "src/main/java/net/mcreator/hongxusworld/client/renderer/HxRenderer.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "Honsneyvillager",
+      "type": "villagerprofession",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honsneyvillager",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/textures/entity/villager/profession/honsneyvillager.png.mcmeta"
+        ]
+      }
+    },
+    {
+      "name": "Hongsword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/HongswordItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/hongsword.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "HongswordShengWuBeiGongJuJiZhongShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongsword_sheng_wu_bei_gong_ju_ji_zhong_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/HongswordShengWuBeiGongJuJiZhongShiProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Hongstonebricks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongstonebricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/blockstates/hongstonebricks.json",
+          "src/main/java/net/mcreator/hongxusworld/block/HongstonebricksBlock.java",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/hongstonebricks.json",
+          "src/main/resources/assets/hongxus_world/models/item/hongstonebricks.json",
+          "src/main/resources/assets/hongxus_world/models/block/hongstonebricks.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Hshovel",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/hshovel.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Hhoe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hhoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/hhoe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Hongxsword",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongxsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/hongxsword.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Hongxpickaxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongxpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/hongxpickaxe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Igethongxuingot",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "igethongxuingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/advancements/igethongxuingot.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Honsneybrickget",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honsneybrickget",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/honsneybrickget.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Honsneyworkerget",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honsneyworkerget",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/honsneyworkerget.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "HxZiRanShiTiShengChengTiaoJian",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hx_zi_ran_shi_ti_sheng_cheng_tiao_jian",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/HxZiRanShiTiShengChengTiaoJianProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Redstone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redstone.json",
+          "src/main/resources/assets/hongxus_world/models/item/redstone.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedstoneBlock.java",
+          "src/main/resources/assets/hongxus_world/blockstates/redstone.json",
+          "src/main/resources/assets/hongxus_world/models/block/redstone.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Reredcobblestone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reredcobblestone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/reredcobblestone.json",
+          "src/main/java/net/mcreator/hongxusworld/block/ReredcobblestoneBlock.java",
+          "src/main/resources/assets/hongxus_world/models/block/reredcobblestone.json",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/reredcobblestone.json",
+          "src/main/resources/assets/hongxus_world/blockstates/reredcobblestone.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "RedcobblestonetoRedstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redcobblestoneto_redstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/redcobblestoneto_redstone.json",
+          "src/main/resources/data/hongxus_world/advancements/recipes/redcobblestoneto_redstone.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Stonepickaxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonepickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/stonepickaxe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Stonesword",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonesword",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/stonesword.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Stoneaxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stoneaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/stoneaxe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Stonehoe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonehoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/stonehoe.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Stoneshowel",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stoneshowel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/stoneshowel.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "RedCraftingtable",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_craftingtable",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/red_craftingtable.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Stone",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/worldgen/placed_feature/stone.json",
+          "src/main/resources/data/hongxus_world/worldgen/configured_feature/stone.json",
+          "src/main/resources/data/hongxus_world/forge/biome_modifier/stone_biome_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "Honsneyvillage",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honsneyvillage",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Redbricksmaking",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redbricksmaking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/redbricksmaking.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Watchmachine",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watchmachine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/blockstates/watchmachine.json",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/watchmachine.json",
+          "src/main/resources/assets/hongxus_world/models/item/watchmachine.json",
+          "src/main/resources/assets/hongxus_world/models/block/watchmachine.json",
+          "src/main/java/net/mcreator/hongxusworld/block/WatchmachineBlock.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Redbrokenore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redbrokenore",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redbrokenore.json",
+          "src/main/resources/assets/hongxus_world/models/block/redbrokenore.json",
+          "src/main/resources/assets/hongxus_world/models/item/redbrokenore.json",
+          "src/main/resources/data/hongxus_world/worldgen/configured_feature/redbrokenore.json",
+          "src/main/resources/data/hongxus_world/forge/biome_modifier/redbrokenore_biome_modifier.json",
+          "src/main/resources/data/hongxus_world/worldgen/placed_feature/redbrokenore.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedbrokenoreBlock.java",
+          "src/main/resources/assets/hongxus_world/blockstates/redbrokenore.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Hongnuggets",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongnuggets",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/HongnuggetsItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/hongnuggets.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Brokenredoretransform",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brokenredoretransform",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/advancements/recipes/brokenredoretransform.json",
+          "src/main/resources/data/hongxus_world/recipes/brokenredoretransform.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Nuggetmaking",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuggetmaking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/nuggetmaking.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Nuggetsintoingot",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuggetsintoingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/nuggetsintoingot.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Normalwatch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "normalwatch",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/NormalwatchItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/normalwatch.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch1000",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_1000",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Watch1000Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/watch_1000.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch2000",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_2000",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Watch2000Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/watch_2000.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch3000",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_3000",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/watch_3000.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Watch3000Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watch3000pink",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watch_3000pink",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Watch3000pinkItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/watch_3000pink.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Watchmachineupdate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watchmachineupdate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/WatchmachineupdateItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/watchmachineupdate.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Rubbish",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubbish",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/RubbishItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/rubbish.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Makewatch",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "makewatch",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/MakewatchProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Watchmachinegui",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hongxusworldmodmenus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu.java",
+          "src/main/java/net/mcreator/hongxusworld/network/WatchmachineguiButtonMessage.java",
+          "src/main/java/net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen.java"
+        ]
+      }
+    },
+    {
+      "name": "WatchmachineguiCiGUIGuanBiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "watchmachinegui_ci_gui_guan_bi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/WatchmachineguiCiGUIGuanBiShiProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Mo",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mo",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/MoProcedure.java"
+        ]
+      },
+      "path": "~/rules"
+    },
+    {
+      "name": "Basicwatch",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "basicwatch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/basicwatch.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Redplate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redplate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/redplate.json",
+          "src/main/java/net/mcreator/hongxusworld/item/RedplateItem.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Pushingtorch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pushingtorch",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/PushingtorchItem.java",
+          "src/main/resources/assets/hongxus_world/models/item/pushingtorch.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Torchmaking",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "torchmaking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/torchmaking.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Plate",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/plate.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Redblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/redblock.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RedblockBlock.java",
+          "src/main/resources/assets/hongxus_world/blockstates/redblock.json",
+          "src/main/resources/assets/hongxus_world/models/block/redblock.json",
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/redblock.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Brokenblock",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brokenblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/brokenblock.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Makeblocks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "makeblocks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/recipes/makeblocks.json"
+        ]
+      },
+      "path": "~/peifang"
+    },
+    {
+      "name": "Key1",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Key1Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/key_1.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Key2Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/key_2.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key3",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/key_3.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Key3Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key4",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/key_4.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Key4Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key5",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Key5Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/key_5.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key6",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/key_6.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Key6Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key7",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Key7Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/key_7.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key8",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/key_8.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Key8Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key9",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Key9Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/key_9.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key10",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_10",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/item/Key10Item.java",
+          "src/main/resources/assets/hongxus_world/models/item/key_10.json"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Key11",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "key_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/key_11.json",
+          "src/main/java/net/mcreator/hongxusworld/item/Key11Item.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Kleeboss",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kleeboss",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/entity/KleebossEntity.java",
+          "src/main/java/net/mcreator/hongxusworld/client/renderer/KleebossRenderer.java",
+          "src/main/resources/assets/hongxus_world/models/item/kleeboss_spawn_egg.json"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "Qiqiboss",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "qiqiboss",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/qiqiboss_spawn_egg.json",
+          "src/main/java/net/mcreator/hongxusworld/entity/QiqibossEntity.java",
+          "src/main/java/net/mcreator/hongxusworld/client/renderer/QiqibossRenderer.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "Chestboss",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chestboss",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/hongxus_world/models/item/chestboss_spawn_egg.json",
+          "src/main/java/net/mcreator/hongxusworld/entity/ChestbossEntity.java",
+          "src/main/java/net/mcreator/hongxusworld/client/renderer/ChestbossRenderer.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "KleebossShiTiSiWangShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kleeboss_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/KleebossShiTiSiWangShiProcedure.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "QiqibossShiTiSiWangShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "qiqiboss_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/QiqibossShiTiSiWangShiProcedure.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "ChestbossShiTiSiWangShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chestboss_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/ChestbossShiTiSiWangShiProcedure.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "Cowboss",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cowboss",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/entity/CowbossEntity.java",
+          "src/main/resources/assets/hongxus_world/models/item/cowboss_spawn_egg.json",
+          "src/main/java/net/mcreator/hongxusworld/client/renderer/CowbossRenderer.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "CowbossShiTiSiWangShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cowboss_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/CowbossShiTiSiWangShiProcedure.java"
+        ]
+      },
+      "path": "~/animals"
+    },
+    {
+      "name": "Rubbishpowergenerator",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubbishpowergenerator",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/hongxus_world/loot_tables/blocks/rubbishpowergenerator.json",
+          "src/main/resources/assets/hongxus_world/models/item/rubbishpowergenerator.json",
+          "src/main/resources/assets/hongxus_world/blockstates/rubbishpowergenerator.json",
+          "src/main/java/net/mcreator/hongxusworld/block/RubbishpowergeneratorBlock.java",
+          "src/main/resources/assets/hongxus_world/models/block/rubbishpowergenerator.json",
+          "src/main/java/net/mcreator/hongxusworld/block/entity/RubbishpowergeneratorBlockEntity.java"
+        ]
+      },
+      "path": "~/items"
+    },
+    {
+      "name": "Rubbishpowergeneratorgui",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubbishpowergeneratorgui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/client/gui/RubbishpowergeneratorguiScreen.java",
+          "src/main/java/net/mcreator/hongxusworld/world/inventory/RubbishpowergeneratorguiMenu.java"
+        ]
+      }
+    },
+    {
+      "name": "RubbishpowergeneratorguiCiGUIDaKaiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rubbishpowergeneratorgui_ci_gui_da_kai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/hongxusworld/procedures/RubbishpowergeneratorguiCiGUIDaKaiShiProcedure.java"
+        ]
+      },
+      "path": "~/items"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "machine_no",
+      "type": "number",
+      "scope": "map",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:piglin_loved": [
+      "~CUSTOM:Watch3000pink",
+      "~CUSTOM:Watch3000",
+      "~CUSTOM:Watch2000",
+      "~CUSTOM:Watch1000",
+      "~CUSTOM:Watch500",
+      "~CUSTOM:Starbucks"
+    ],
+    "BLOCKS:minecraft:saplings": [
+      "~CUSTOM:Redtreesapling"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:Redtreeplanks",
+      "~CUSTOM:StrippedredtreeLog",
+      "~CUSTOM:Redtreelog"
+    ],
+    "BIOMES:minecraft:has_structure/ruined_portal_standard": [
+      "~CUSTOM:Redworld"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Hongpickaxe"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Redblock",
+      "~CUSTOM:Redbrokenore",
+      "~CUSTOM:Watchmachine",
+      "~CUSTOM:Redstone",
+      "~CUSTOM:Hongstonebricks",
+      "~CUSTOM:Honsneyworker",
+      "~CUSTOM:Hongore"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Redbrokenore",
+      "~CUSTOM:Hongstonebricks",
+      "~CUSTOM:Honsneyworker",
+      "~CUSTOM:Hongore"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Hongsword"
+    ],
+    "BIOMES:minecraft:has_structure/village_plains": [
+      "~CUSTOM:Redworld"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.hongxus_world.starbucks": "星八克",
+      "item.hongxus_world.shouwo": "手握",
+      "item.hongxus_world.watch_1": "1块钱的手表",
+      "item_group.hongxus_world.hongxus_work": "洪旭工艺",
+      "item.hongxus_world.watch_500": "500块的手表",
+      "biome.hongxus_world.redworld": "Redworld",
+      "block.hongxus_world.redtreeleaves": "洪树苗",
+      "block.hongxus_world.redtreesapling": "洪树苗",
+      "block.hongxus_world.redtreelog": "洪树原木",
+      "block.hongxus_world.strippedredtree_log": "去皮洪树原木",
+      "block.hongxus_world.redtreeplanks": "洪树木板",
+      "block.hongxus_world.hong_ore": "洪矿",
+      "item.hongxus_world.hong_ingot": "洪锭",
+      "item.hongxus_world.hongpickaxe.description_0": "小心！会被恶心到！",
+      "item.hongxus_world.hongpickaxe": "洪稿",
+      "block.hongxus_world.honsneyworker": "洪士尼村民工作方块",
+      "item.hongxus_world.hx_spawn_egg": "Hx Spawn Egg",
+      "entity.hongxus_world.hx": "Hx",
+      "entity.minecraft.villager.hongxus_world.honsneyvillager": "Honsneyvillager",
+      "item.hongxus_world.hongsword": "洪剑",
+      "item.hongxus_world.hongsword.description_0": "小心！会被恶心到！",
+      "block.hongxus_world.hongstonebricks": "洪石砖",
+      "advancements.igethongxuingot.descr": "获得一块洪锭",
+      "advancements.igethongxuingot.title": "地下的洪旭(这个太简单了~)",
+      "block.hongxus_world.redstone": "洪石",
+      "block.hongxus_world.reredcobblestone": "洪原石",
+      "block.hongxus_world.watchmachine": "手表机器",
+      "block.hongxus_world.redbrokenore": "破碎的洪矿",
+      "item.hongxus_world.hongnuggets": "Hongnuggets",
+      "item.hongxus_world.normalwatch": "Normalwatch",
+      "item.hongxus_world.watch_1000": "1000块的手表",
+      "item.hongxus_world.watch_2000": "2000块的手表",
+      "item.hongxus_world.watch_3000": "3000块的手表",
+      "item.hongxus_world.watch_3000pink": "3000块的粉手表",
+      "item.hongxus_world.watch_3000pink.description_0": "为什么我不戴这个手表？因为如果戴了，别人会觉得我很gay",
+      "item.hongxus_world.watchmachineupdate": "手表机器更新插件",
+      "item.hongxus_world.watchmachineupdate.description_0": "放入手表机器中：每有一个该物品，提高1%的手表制作成功率",
+      "item.hongxus_world.rubbish": "垃圾",
+      "gui.hongxus_world.hongxusworldmodmenus.button_kai_shi_zhi_zuo": "开始制作",
+      "gui.hongxus_world.hongxusworldmodmenus.label_shou_biao_zhi_zuo_tai": "手表制作台",
+      "gui.hongxus_world.hongxusworldmodmenus.label_empty": "放置错误！！！",
+      "item.hongxus_world.redplate": "洪板",
+      "item.hongxus_world.pushingtorch": "碾压棒",
+      "block.hongxus_world.redblock": "洪块",
+      "item.hongxus_world.key_1": "1号钥匙",
+      "item.hongxus_world.key_2": "2号钥匙",
+      "item.hongxus_world.key_3": "3号钥匙",
+      "item.hongxus_world.key_4": "4号钥匙",
+      "item.hongxus_world.key_5": "5号钥匙",
+      "item.hongxus_world.key_6": "6号钥匙",
+      "item.hongxus_world.key_7": "7号钥匙",
+      "item.hongxus_world.key_8": "8号钥匙",
+      "item.hongxus_world.key_9": "9号钥匙",
+      "item.hongxus_world.key_10": "10号钥匙",
+      "item.hongxus_world.key_11": "11号钥匙",
+      "entity.hongxus_world.kleeboss": "Kleeboss",
+      "item.hongxus_world.kleeboss_spawn_egg": "Kleeboss Spawn Egg",
+      "item.hongxus_world.qiqiboss_spawn_egg": "Kleeboss Spawn Egg",
+      "entity.hongxus_world.qiqiboss": "Kleeboss",
+      "item.hongxus_world.chestboss_spawn_egg": "Kleeboss Spawn Egg",
+      "entity.hongxus_world.chestboss": "Kleeboss",
+      "item.hongxus_world.cowboss_spawn_egg": "Kleeboss Spawn Egg",
+      "entity.hongxus_world.cowboss": "Kleeboss",
+      "block.hongxus_world.rubbishpowergenerator": "废物发电机",
+      "gui.hongxus_world.rubbishpowergeneratorgui.label_fei_wu_fa_dian_ji": "废物发电机"
+    },
+    "zh_cn": {
+      "item.hongxus_world.starbucks": "星八克",
+      "item.hongxus_world.shouwo": "手握",
+      "item.hongxus_world.watch_1": "1块钱的手表",
+      "item_group.hongxus_world.hongxus_work": "洪旭工艺",
+      "item.hongxus_world.watch_500": "500块的手表",
+      "biome.hongxus_world.redworld": "洪世界",
+      "block.hongxus_world.redtreeleaves": "洪树苗",
+      "block.hongxus_world.redtreesapling": "洪树苗",
+      "block.hongxus_world.redtreelog": "洪树原木",
+      "block.hongxus_world.strippedredtree_log": "去皮洪树原木",
+      "block.hongxus_world.redtreeplanks": "洪树木板",
+      "block.hongxus_world.hong_ore": "洪矿",
+      "item.hongxus_world.hong_ingot": "洪锭",
+      "item.hongxus_world.hongpickaxe.description_0": "小心！会被恶心到！",
+      "item.hongxus_world.hongpickaxe": "洪稿",
+      "block.hongxus_world.honsneyworker": "洪士尼村民工作方块",
+      "item.hongxus_world.hx_spawn_egg": "洪旭生成蛋",
+      "entity.hongxus_world.hx": "洪旭",
+      "entity.minecraft.villager.hongxus_world.honsneyvillager": "洪士尼村民",
+      "item.hongxus_world.hongsword": "洪剑",
+      "item.hongxus_world.hongsword.description_0": "小心！会被恶心到！",
+      "block.hongxus_world.hongstonebricks": "洪石砖",
+      "advancements.igethongxuingot.descr": "获得一块洪锭",
+      "advancements.igethongxuingot.title": "地下的洪旭(这个太简单了~)",
+      "block.hongxus_world.redstone": "洪石",
+      "block.hongxus_world.reredcobblestone": "洪原石",
+      "block.hongxus_world.watchmachine": "手表机器",
+      "block.hongxus_world.redbrokenore": "破碎的洪矿",
+      "item.hongxus_world.hongnuggets": "洪粒",
+      "item.hongxus_world.normalwatch": "普通手表",
+      "item.hongxus_world.watch_1000": "1000块的手表",
+      "item.hongxus_world.watch_2000": "2000块的手表",
+      "item.hongxus_world.watch_3000": "3000块的手表",
+      "item.hongxus_world.watch_3000pink": "3000块的粉手表",
+      "item.hongxus_world.watch_3000pink.description_0": "为什么我不戴这个手表？因为如果戴了，别人会觉得我很gay",
+      "item.hongxus_world.watchmachineupdate": "手表机器更新插件",
+      "item.hongxus_world.watchmachineupdate.description_0": "放入手表机器中：每有一个该物品，提高1%的手表制作成功率",
+      "item.hongxus_world.rubbish": "垃圾",
+      "gui.hongxus_world.hongxusworldmodmenus.button_kai_shi_zhi_zuo": "开始制作",
+      "gui.hongxus_world.hongxusworldmodmenus.label_shou_biao_zhi_zuo_tai": "手表制作台",
+      "gui.hongxus_world.hongxusworldmodmenus.label_empty": "放置错误！！！",
+      "item.hongxus_world.redplate": "洪板",
+      "item.hongxus_world.pushingtorch": "碾压棒",
+      "block.hongxus_world.redblock": "洪块",
+      "item.hongxus_world.key_1": "1号钥匙",
+      "item.hongxus_world.key_2": "1号钥匙",
+      "item.hongxus_world.key_3": "2号钥匙",
+      "item.hongxus_world.key_4": "3号钥匙",
+      "item.hongxus_world.key_5": "4号钥匙",
+      "item.hongxus_world.key_6": "5号钥匙",
+      "item.hongxus_world.key_7": "6号钥匙",
+      "item.hongxus_world.key_8": "7号钥匙",
+      "item.hongxus_world.key_9": "8号钥匙",
+      "item.hongxus_world.key_10": "9号钥匙",
+      "item.hongxus_world.key_11": "10号钥匙",
+      "entity.hongxus_world.kleeboss": "Kleeboss",
+      "item.hongxus_world.kleeboss_spawn_egg": "Kleeboss Spawn Egg",
+      "item.hongxus_world.qiqiboss_spawn_egg": "Kleeboss Spawn Egg",
+      "entity.hongxus_world.qiqiboss": "Kleeboss",
+      "item.hongxus_world.chestboss_spawn_egg": "Kleeboss Spawn Egg",
+      "entity.hongxus_world.chestboss": "Kleeboss",
+      "item.hongxus_world.cowboss_spawn_egg": "Kleeboss Spawn Egg",
+      "entity.hongxus_world.cowboss": "Kleeboss",
+      "block.hongxus_world.rubbishpowergenerator": "废物发电机",
+      "gui.hongxus_world.rubbishpowergeneratorgui.label_fei_wu_fa_dian_ji": "废物发电机"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModScreens.java",
+      "src/main/java/net/mcreator/hongxusworld/network/MenuStateUpdateMessage.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModMenus.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModTrades.java",
+      "src/main/resources/data/minecraft/tags/point_of_interest_type/acquirable_job_site.json",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModVillagerProfessions.java",
+      "src/main/java/net/mcreator/hongxusworld/mixin/NoiseGeneratorSettingsMixin.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModBiomes.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModBlocks.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModBlockEntities.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModItems.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModEntityRenderers.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModEntities.java",
+      "src/main/java/net/mcreator/hongxusworld/init/HongxusWorldModTabs.java",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/resources/hongxus_world.mixins.json",
+      "src/main/java/net/mcreator/hongxusworld/network/HongxusWorldModVariables.java",
+      "src/main/resources/META-INF/accesstransformer.cfg",
+      "src/main/java/net/mcreator/hongxusworld/HongxusWorldMod.java",
+      "src/main/resources/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "items",
+        "children": []
+      },
+      {
+        "name": "peifang",
+        "children": []
+      },
+      {
+        "name": "rules",
+        "children": []
+      },
+      {
+        "name": "animals",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "hongxus_world",
+    "modName": "hongxu\u0027s world",
+    "version": "0.0.1",
+    "author": "tbdbluhu",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.hongxusworld"
+  },
+  "mcreatorVersion": 202500345720
+}

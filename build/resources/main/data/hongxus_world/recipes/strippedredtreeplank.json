@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hongxus_world:strippedredtree_log"
+    }
+  ],
+  "result": {
+    "item": "hongxus_world:redtreeplanks",
+    "count": 4
+  }
+}

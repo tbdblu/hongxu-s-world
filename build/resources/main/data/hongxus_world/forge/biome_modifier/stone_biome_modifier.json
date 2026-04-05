@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "hongxus_world:redworld",
+  "features": "hongxus_world:stone",
+  "step": "raw_generation"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_bricks"
+    },
+    {
+      "item": "hongxus_world:hong_ingot"
+    }
+  ],
+  "result": {
+    "item": "hongxus_world:hongstonebricks",
+    "count": 1
+  }
+}

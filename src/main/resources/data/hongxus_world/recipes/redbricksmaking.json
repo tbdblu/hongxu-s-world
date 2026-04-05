@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hongxus_world:redstone"
+    },
+    {
+      "item": "hongxus_world:redstone"
+    },
+    {
+      "item": "hongxus_world:redstone"
+    },
+    {
+      "item": "hongxus_world:redstone"
+    }
+  ],
+  "result": {
+    "item": "hongxus_world:hongstonebricks",
+    "count": 1
+  }
+}

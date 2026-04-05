@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hongxus_world:block/hong_block",
+    "up": "hongxus_world:block/hong_block",
+    "north": "hongxus_world:block/hong_block",
+    "east": "hongxus_world:block/hong_block",
+    "south": "hongxus_world:block/hong_block",
+    "west": "hongxus_world:block/hong_block",
+    "particle": "hongxus_world:block/hong_block"
+  },
+  "render_type": "solid"
+}

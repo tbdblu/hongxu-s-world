@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "Items.FISH#0"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "CUSTOM:Redtreeplanks"
+      },
+      {
+        "value": "CUSTOM:Redtreeplanks"
+      },
+      {
+        "value": "CUSTOM:Redtreeplanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Shouwo"
+    },
+    "name": "shouwocreate",
+    "namespace": "mod"
+  }
+}

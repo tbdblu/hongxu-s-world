@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hongxus_world:block/redtree_planks",
+    "up": "hongxus_world:block/redtree_planks",
+    "north": "hongxus_world:block/redtree_planks",
+    "east": "hongxus_world:block/redtree_planks",
+    "south": "hongxus_world:block/redtree_planks",
+    "west": "hongxus_world:block/redtree_planks",
+    "particle": "hongxus_world:block/redtree_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "hongxus_world:redbrokenore",
+  "step": "underground_ores"
+}

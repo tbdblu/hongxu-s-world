@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hongxus_world:redtreeplanks"
+    },
+    {
+      "item": "hongxus_world:redtreeplanks"
+    },
+    {
+      "item": "hongxus_world:redtreeplanks"
+    },
+    {
+      "item": "hongxus_world:redtreeplanks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crafting_table",
+    "count": 1
+  }
+}

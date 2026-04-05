@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hongxus_world:block/ce_mian_",
+    "up": "hongxus_world:block/ce_mian_",
+    "north": "hongxus_world:block/zheng_mian_",
+    "east": "hongxus_world:block/ce_mian_",
+    "south": "hongxus_world:block/bei_mian_",
+    "west": "hongxus_world:block/ce_mian_",
+    "particle": "hongxus_world:block/ce_mian_"
+  },
+  "render_type": "solid"
+}

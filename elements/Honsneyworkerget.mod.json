@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      },
+      {
+        "value": "CUSTOM:Hongingot"
+      },
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      },
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      },
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      },
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      },
+      {
+        "value": "CUSTOM:Hongstonebricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Honsneyworker"
+    },
+    "name": "honsneyworkerget",
+    "namespace": "mod"
+  }
+}

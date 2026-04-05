@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hongxus_world:block/red_ore_break",
+    "up": "hongxus_world:block/red_ore_break",
+    "north": "hongxus_world:block/red_ore_break",
+    "east": "hongxus_world:block/red_ore_break",
+    "south": "hongxus_world:block/red_ore_break",
+    "west": "hongxus_world:block/red_ore_break",
+    "particle": "hongxus_world:block/red_ore_break"
+  },
+  "render_type": "solid"
+}

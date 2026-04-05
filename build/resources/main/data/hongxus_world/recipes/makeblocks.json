@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hongxus_world:hong_ingot"
+    }
+  },
+  "result": {
+    "item": "hongxus_world:redblock",
+    "count": 1
+  }
+}

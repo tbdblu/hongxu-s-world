@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hongxus_world:block/redcobblestone",
+    "up": "hongxus_world:block/redcobblestone",
+    "north": "hongxus_world:block/redcobblestone",
+    "east": "hongxus_world:block/redcobblestone",
+    "south": "hongxus_world:block/redcobblestone",
+    "west": "hongxus_world:block/redcobblestone",
+    "particle": "hongxus_world:block/redcobblestone"
+  },
+  "render_type": "solid"
+}

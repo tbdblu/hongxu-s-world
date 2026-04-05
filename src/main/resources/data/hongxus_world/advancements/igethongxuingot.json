@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "hongxus_world:hong_ingot"
+    },
+    "title": {
+      "translate": "advancements.igethongxuingot.title"
+    },
+    "description": {
+      "translate": "advancements.igethongxuingot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "igethongxuingot_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hongxus_world:hong_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

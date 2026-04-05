@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/mcreator/hongxusworld/mixin/NoiseGeneratorSettingsMixin": {
+      "surfaceRule": "Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;f_188871_()Lnet/minecraft/world/level/levelgen/SurfaceRules$RuleSource;"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/mcreator/hongxusworld/mixin/NoiseGeneratorSettingsMixin": {
+        "surfaceRule": "Lnet/minecraft/world/level/levelgen/NoiseGeneratorSettings;f_188871_()Lnet/minecraft/world/level/levelgen/SurfaceRules$RuleSource;"
+      }
+    }
+  }
+}

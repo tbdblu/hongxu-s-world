@@ -1,0 +1,620 @@
+Forge Auto Renaming Tool v2.0.4
+lib: I:\hongxu\build\moddev\artifacts\forge-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-common\0.5.0\286da96036621082491d971dfc62bee8fc37d161\mixinextras-common-0.5.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.github.llamalad7\mixinextras-forge\0.5.0\cebe4d98a42a4a32ebf0ddec7b93d5bdbdad009\mixinextras-forge-0.5.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\cpw.mods\securejarhandler\2.1.10\51e6a22c6c716beb11e244bf5b8be480f51dd6b5\securejarhandler-2.1.10.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlloader\1.20.1-47.4.13\b27b57b2f641bfe6ecdaf206ee54880d26bb9c10\fmlloader-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\coremods\5.2.4\e30bab269d896613e38396274711410b3a0e4b87\coremods-5.2.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\cpw.mods\modlauncher\10.0.9\6d9443f56f50bb85cea383686ff9c867391458b\modlauncher-10.0.9.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.openjdk.nashorn\nashorn-core\15.4\f67f5ffaa5f5130cf6fb9b133da00c7df3b532a5\nashorn-core-15.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-commons\9.8\36e4d212970388e5bd2c5180292012502df461bb\asm-commons-9.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-util\9.8\395f1c1f035258511f27bc9b2583d76e4b143f59\asm-util-9.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-analysis\9.8\b9747a320844b6cb1eacd90d8ecfd260a16c01d3\asm-analysis-9.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm-tree\9.8\18419ca5b77a2f81097c741e7872e6ab8d2f40d\asm-tree-9.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.ow2.asm\asm\9.8\dc19ecb3f7889b7860697215cae99c0f9b6f6b4b\asm-9.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\accesstransformers\8.0.4\272d240aa73f42195b2a68e2ebd8b701ecf41f63\accesstransformers-8.0.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\antlr4\4.9.1\e92af8ab33e428461927b484e90bb155a4f3a052\antlr4-4.9.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\antlr4-runtime\4.9.1\428664f05d2b7f7b7610204b5aa7c1763f62011a\antlr4-runtime-4.9.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.4.13\f77e3021d1eb31d61f8d1b92d18ed4fb3c2806e5\fmlcore-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\eventbus\6.0.5\699143dd438431d06b57416944f7cedbe52e1475\eventbus-6.0.5.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\forgespi\7.0.1\3b4972a0cdb135853dba219be61a79b22cff1309\forgespi-7.0.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\unsafe\0.2.0\54d7a0a5e8fdb71b973025caa46f341ae5904f39\unsafe-0.2.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.7\fe2225c1a7834ee20d5a1e2630bcca798367d962\mergetool-1.1.7.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mergetool\1.1.7\aa7c6d9d187d585a8a215c288d65b0038be80b2a\mergetool-1.1.7-api.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.electronwill.night-config\toml\3.6.4\51d6cefb2b55ee55ee26b16391212fb2c7dfb4f4\toml-3.6.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.electronwill.night-config\core\3.6.4\510f174abbf1c947494db50ef2445683bd52c230\core-3.6.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarSelector\0.3.19\376cc9c8ea60720cf027c01fc033de915699801c\JarJarSelector-0.3.19.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarMetadata\0.3.19\83feaa9b770e6ac0e96ee4fc23fa89325c5fe2\JarJarMetadata-0.3.19.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.8.5\4433f50c07debefaed0553bd0068f4f48d449313\maven-artifact-3.8.5.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.jodah\typetools\0.6.3\a01aaa6ddaea9ec07ec4f209487b7a46a526283a\typetools-0.6.3.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecrell\terminalconsoleappender\1.2.0\96d02cd3b384ff015a8fef4223bcb4ccf1717c95\terminalconsoleappender-1.2.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.spongepowered\mixin\0.8.5\9d1c0c3a304ae6697ecd477218fa61b850bf57fc\mixin-0.8.5.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\cpw.mods\bootstraplauncher\1.1.2\c546e00443d8432cda6baa1c860346980742628\bootstraplauncher-1.1.2.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\JarJarFileSystems\0.3.19\2464eb7d6b9ddb9db36a82cf8a95193e5c6fe020\JarJarFileSystems-0.3.19.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlearlydisplay\1.20.1-47.4.13\ba7b07fcea003721c5cdbaa0f2d10d43db11daab\fmlearlydisplay-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.4.13\cf01e2179f72bd2829c65f5226d7dd0cfb6c686\javafmllanguage-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.4.13\e3f96129ea14eba84316f2d69816253e228e6e4c\lowcodelanguage-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.4.13\85796906112d9b621a7b2996f8bfda49da991ef0\mclanguage-1.20.1-47.4.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.3.0\cf43b5391de623b36fe066a21127baef82c64022\plexus-utils-3.3.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.12.0\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\commons-lang3-3.12.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-core\2.8.1\4ac28ff2f1ddf05dae3043a190451e8c46b73c31\log4j-core-2.8.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.10\dd9b193aef96e973d5a11ab13cd17430c2e4306b\gson-2.10.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.guava\guava\31.1-jre\60458f877d055d0c9114d9e1a2efb737b4bc282c\guava-31.1-jre.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.machinezoo.noexception\noexception\1.7.1\b65330c98e38a1f915fa54a6e5eca496505e3f0a\noexception-1.7.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.8.0-beta4\83b0359d847ee053d745be7ec0d8e9e8a44304b4\slf4j-api-1.8.0-beta4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-api\2.19.0\ea1b37f38c327596b216542bc636cfdc0b8036fa\log4j-api-2.19.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\logging\1.1.1\832b8e6674a9b325a5175a3a6267dfaf34c85139\logging-1.1.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\ca.weblite\java-objc-bridge\1.1\1227f9e0666314f9de41477e3ec277e542ed7f7b\java-objc-bridge-1.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\24.0.1\13c5c75c4206580aa4d683bffee658caae6c9f43\annotations-24.0.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.github.oshi\oshi-core\6.2.2\54f5efc19bca95d709d9a37d19ffcbba3d21c1a6\oshi-core-6.2.2.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.guava\failureaccess\1.0.1\1dcf1de382a0bf95a3d8b0849546c88bac1292c9\failureaccess-1.0.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\61.1\28d33b5e44e72edcc66a5da7a34a42147f38d987\icu4j-61.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\authlib\4.0.43\2ff9d747a77570a07a60d32ac77eb6162ad2a2d9\authlib-4.0.43.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\blocklist\1.0.10\5c685c5ffa94c4cd39496c7184c1d122e515ecef\blocklist-1.0.10.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\brigadier\1.1.8\5244ce82c3337bba4a196a3ce858bfaecc74404a\brigadier-1.1.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\datafixerupper\6.0.8\3ba4a30557a9b057760af4011f909ba619fc5125\datafixerupper-6.0.8.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\patchy\2.2.10\da05971b07cbb379d002cf7eaec6a2048211fefc\patchy-2.2.10.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.mojang\text2speech\1.17.9\3cad216e3a7f0c19b4b394388bc9ffc446f13b14\text2speech-1.17.9.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.15\49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d\commons-codec-1.15.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.11.0\a2503f302b11ebde7ebc3df41daebe0e4eea3689\commons-io-2.11.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\commons-logging\commons-logging\1.2\4bfc12adfe4842bf07b657f0369c4cb522955686\commons-logging-1.2.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-buffer\4.1.82.Final\a544270cf1ae8b8077082f5036436a9a9971ea71\netty-buffer-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-codec\4.1.82.Final\b77200379acb345a9ffdece1c605e591ac3e4e0a\netty-codec-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-common\4.1.82.Final\22d148e85c3f5ebdacc0ce1f5aabb1d420f73f3\netty-common-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-handler\4.1.82.Final\644041d1fa96a5d3130a29e8978630d716d76e38\netty-handler-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-resolver\4.1.82.Final\38f665ae8dcd29032eea31245ba7806bed2e0fa8\netty-resolver-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-transport-classes-epoll\4.1.82.Final\e7c7dd18deac93105797f30057c912651ea76521\netty-transport-classes-epoll-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-transport-native-unix-common\4.1.82.Final\3e895b35ca1b8a0eca56cacff4c2dde5d2c6abce\netty-transport-native-unix-common-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\io.netty\netty-transport\4.1.82.Final\e431a218d91acb6476ccad5f5aafde50aa3945ca\netty-transport-4.1.82.Final.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\it.unimi.dsi\fastutil\8.5.9\bb7ea75ecdb216654237830b3a96d87ad91f8cc5\fastutil-8.5.9.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna-platform\5.12.1\97406a297c852f4a41e688a176ec675f72e8329\jna-platform-5.12.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.java.dev.jna\jna\5.10.0\7cf4c87dd802db50721db66947aa237d7ad09418\jna-5.10.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\net.sf.jopt-simple\jopt-simple\5.0.4\4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c\jopt-simple-5.0.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.commons\commons-compress\1.21\4ec95b60d4e86b5c95a0e919cb172a0af98011ef\commons-compress-1.21.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.5.13\e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada\httpclient-4.5.13.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.15\7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d\httpcore-4.4.15.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.apache.logging.log4j\log4j-slf4j2-impl\2.19.0\5c04bfdd63ce9dceb2e284b81e96b6a70010ee10\log4j-slf4j2-impl-2.19.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.joml\joml\1.10.5\22566d58af70ad3d72308bab63b8339906deb649\joml-1.10.5.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-glfw\3.3.1\cbac1b8d30cb4795149c1ef540f912671a8616d0\lwjgl-glfw-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-jemalloc\3.3.1\a817bcf213db49f710603677457567c37d53e103\lwjgl-jemalloc-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-openal\3.3.1\2623a6b8ae1dfcd880738656a9f0243d2e6840bd\lwjgl-openal-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-opengl\3.3.1\831a5533a21a5f4f81bbc51bb13e9899319b5411\lwjgl-opengl-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-stb\3.3.1\b119297cf8ed01f247abe8685857f8e7fcf5980f\lwjgl-stb-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl-tinyfd\3.3.1\ff1914111ef2e3e0110ef2dabc8d8cdaad82347\lwjgl-tinyfd-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.lwjgl\lwjgl\3.3.1\ae58664f88e18a9bb2c77b063833ca7aaec484cb\lwjgl-3.3.1.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\ST4\4.3\92f2c1ad8d84abcbeead6cf7f2c53a04166293c2\ST4-4.3.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.antlr\antlr-runtime\3.5.2\cd9cd41361c155f3af0f653009dcecb08d8b4afd\antlr-runtime-3.5.2.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.abego.treelayout\org.abego.treelayout.core\1.0.3\457216e8e6578099ae63667bb1e4439235892028\org.abego.treelayout.core-1.0.3.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.glassfish\javax.json\1.0.4\3178f73569fd7a1e5ffc464e680f7a8cc784b85a\javax.json-1.0.4.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\b421526c5f297295adef1c886e5246c39d4ac629\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\3.12.0\d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5\checker-qual-3.12.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.11.0\c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69\error_prone_annotations-2.11.0.jar
+lib: C:\Users\OS\.mcreator\gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.3\ba035118bc8bac37d7eff77700720999acd9986d\j2objc-annotations-1.3.jar
+log: null
+input: I:\hongxu\build\devlibs\modid-1.0.jar
+output: I:\hongxu\build\libs\modid-1.0.jar
+threads: 16
+Names: I:\hongxu\build\moddev\artifacts\namedToIntermediate.tsrg, I:\hongxu\build\mixin\hongxus_world.refmap.json.mappings.tsrg(reversed: false)
+Fix Annotations: false
+Unfinal Parameters: false
+Fix Records: false
+Fix Identifiers: false
+Fix SourceFile: false
+Fix Line Numbers: false
+Strip codesigning signatures: ALL
+Adding Libraries to Inheritance
+Reading Input: I:\hongxu\build\devlibs\modid-1.0.jar
+Adding input to inheritance map
+Processing entries
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/grower/RedtreesaplingTreeGrower/getConfiguredFeature(Lnet/minecraft/util/RandomSource;Z)Lnet/minecraft/resources/ResourceKey; from net/minecraft/world/level/block/grower/AbstractTreeGrower/getConfiguredFeature(Lnet/minecraft/util/RandomSource;Z)Lnet/minecraft/resources/ResourceKey;: getConfiguredFeature -> m_213888_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/WatchmachineBlock$1/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuConstructor/createMenu(ILnet/minecraft/world/entity/player/Inventory;Lnet/minecraft/world/entity/player/Player;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: createMenu -> m_7208_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/WatchmachineBlock$1/getDisplayName()Lnet/minecraft/network/chat/Component; from net/minecraft/world/MenuProvider/getDisplayName()Lnet/minecraft/network/chat/Component;: getDisplayName -> m_5446_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedtreelogBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/HongstonebricksBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedtreeplanksBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/HongoreBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedbrokenoreBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/ReredcobblestoneBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedstoneBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedtreeleavesBlock/getVisualShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape; from net/minecraft/world/level/block/state/BlockBehaviour/getVisualShape(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;: getVisualShape -> m_5909_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/StrippedredtreeLogBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/WatchmachineBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedtreeleavesBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedblockBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/HonsneyworkerBlock/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I from net/minecraft/world/level/block/state/BlockBehaviour/getLightBlock(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)I: getLightBlock -> m_7753_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/WatchmachineBlock/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; from net/minecraft/world/level/block/state/BlockBehaviour/use(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;: use -> m_6227_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedtreesaplingBlock/mayPlaceOn(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z from net/minecraft/world/level/block/BushBlock/mayPlaceOn(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z: mayPlaceOn -> m_6266_
+Conflicting propagated mapping for net/mcreator/hongxusworld/block/RedtreesaplingBlock/canSurvive(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z from net/minecraft/world/level/block/BushBlock/canSurvive(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z: canSurvive -> m_7898_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity$2/canContinueToUse()Z from net/minecraft/world/entity/ai/goal/RangedAttackGoal/canContinueToUse()Z: canContinueToUse -> m_8045_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity$1/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D from net/minecraft/world/entity/ai/goal/MeleeAttackGoal/getAttackReachSqr(Lnet/minecraft/world/entity/LivingEntity;)D: getAttackReachSqr -> m_6639_
+Conflicting propagated mapping for net/mcreator/hongxusworld/client/renderer/HxRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation; from net/minecraft/client/renderer/entity/EntityRenderer/getTextureLocation(Lnet/minecraft/world/entity/Entity;)Lnet/minecraft/resources/ResourceLocation;: getTextureLocation -> m_5478_
+Conflicting propagated mapping for net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen/keyPressed(III)Z from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/keyPressed(III)Z: keyPressed -> m_7933_
+Conflicting propagated mapping for net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/render(Lnet/minecraft/client/gui/GuiGraphics;IIF)V: render -> m_88315_
+Conflicting propagated mapping for net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen/init()V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/init()V: init -> m_7856_
+Conflicting propagated mapping for net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderLabels(Lnet/minecraft/client/gui/GuiGraphics;II)V: renderLabels -> m_280003_
+Conflicting propagated mapping for net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V from net/minecraft/client/gui/screens/inventory/AbstractContainerScreen/renderBg(Lnet/minecraft/client/gui/GuiGraphics;FII)V: renderBg -> m_7286_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu/moveItemStackTo(Lnet/minecraft/world/item/ItemStack;IIZ)Z from net/minecraft/world/inventory/AbstractContainerMenu/moveItemStackTo(Lnet/minecraft/world/item/ItemStack;IIZ)Z: moveItemStackTo -> m_38903_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu/removed(Lnet/minecraft/world/entity/player/Player;)V from net/minecraft/world/inventory/AbstractContainerMenu/removed(Lnet/minecraft/world/entity/player/Player;)V: removed -> m_6877_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/AbstractContainerMenu/stillValid(Lnet/minecraft/world/entity/player/Player;)Z: stillValid -> m_6875_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/AbstractContainerMenu/quickMoveStack(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;: quickMoveStack -> m_7648_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/WatchEntity/getPickupItem()Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/entity/projectile/AbstractArrow/getPickupItem()Lnet/minecraft/world/item/ItemStack;: getPickupItem -> m_7941_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/WatchEntity/tick()V from net/minecraft/world/entity/projectile/AbstractArrow/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/WatchEntity/doPostHurtEffects(Lnet/minecraft/world/entity/LivingEntity;)V from net/minecraft/world/entity/projectile/AbstractArrow/doPostHurtEffects(Lnet/minecraft/world/entity/LivingEntity;)V: doPostHurtEffects -> m_7761_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/WatchEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/projectile/Projectile/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/WatchEntity/getItem()Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/entity/projectile/ItemSupplier/getItem()Lnet/minecraft/world/item/ItemStack;: getItem -> m_7846_
+Conflicting propagated mapping for net/minecraftforge/common/ForgeSpawnEggItem/getType(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/EntityType; from net/minecraft/world/item/SpawnEggItem/getType(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/EntityType;: getType -> m_43228_
+Conflicting propagated mapping for net/minecraft/world/entity/LivingEntity/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V from net/minecraft/world/entity/player/Player/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V: lambda$addAdditionalSaveData$3 -> m_219754_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/StarbucksItem/finishUsingItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/item/Item/finishUsingItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;)Lnet/minecraft/world/item/ItemStack;: finishUsingItem -> m_5922_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/ShouwoItem/finishUsingItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/item/Item/finishUsingItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;)Lnet/minecraft/world/item/ItemStack;: finishUsingItem -> m_5922_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim; from net/minecraft/world/item/Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim;: getUseAnimation -> m_6164_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch500Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim; from net/minecraft/world/item/Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim;: getUseAnimation -> m_6164_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch500Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch500Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch500Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch500Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getHurtSound(Lnet/minecraft/world/damagesource/DamageSource;)Lnet/minecraft/sounds/SoundEvent;: getHurtSound -> m_7975_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/finalizeSpawn(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData; from net/minecraft/world/entity/Mob/finalizeSpawn(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;: finalizeSpawn -> m_6518_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet; from net/minecraft/world/entity/Entity/getAddEntityPacket()Lnet/minecraft/network/protocol/Packet;: getAddEntityPacket -> m_5654_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/getDeathSound()Lnet/minecraft/sounds/SoundEvent; from net/minecraft/world/entity/monster/Monster/getDeathSound()Lnet/minecraft/sounds/SoundEvent;: getDeathSound -> m_5592_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V from net/minecraft/world/entity/Mob/dropCustomDeathLoot(Lnet/minecraft/world/damagesource/DamageSource;IZ)V: dropCustomDeathLoot -> m_7472_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z from net/minecraft/world/entity/LivingEntity/hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z: hurt -> m_6469_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/canBeCollidedWith()Z from net/minecraft/world/entity/Entity/canBeCollidedWith()Z: canBeCollidedWith -> m_5829_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/getMobType()Lnet/minecraft/world/entity/MobType; from net/minecraft/world/entity/LivingEntity/getMobType()Lnet/minecraft/world/entity/MobType;: getMobType -> m_6336_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/canCollideWith(Lnet/minecraft/world/entity/Entity;)Z from net/minecraft/world/entity/Entity/canCollideWith(Lnet/minecraft/world/entity/Entity;)Z: canCollideWith -> m_7337_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/registerGoals()V from net/minecraft/world/entity/Mob/registerGoals()V: registerGoals -> m_8099_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/getMyRidingOffset()D from net/minecraft/world/entity/Entity/getMyRidingOffset()D: getMyRidingOffset -> m_6049_
+Conflicting propagated mapping for net/mcreator/hongxusworld/entity/HxEntity/performRangedAttack(Lnet/minecraft/world/entity/LivingEntity;F)V from net/minecraft/world/entity/monster/RangedAttackMob/performRangedAttack(Lnet/minecraft/world/entity/LivingEntity;F)V: performRangedAttack -> m_6504_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem/inventoryTick(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/Entity;IZ)V from net/minecraft/world/item/Item/inventoryTick(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/Entity;IZ)V: inventoryTick -> m_6883_
+Conflicting propagated mapping for net/minecraftforge/network/IContainerFactory/create(ILnet/minecraft/world/entity/player/Inventory;)Lnet/minecraft/world/inventory/AbstractContainerMenu; from net/minecraft/world/inventory/MenuType$MenuSupplier/create(ILnet/minecraft/world/entity/player/Inventory;)Lnet/minecraft/world/inventory/AbstractContainerMenu;: create -> m_39994_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/SwordItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem$1/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1000Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim; from net/minecraft/world/item/Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim;: getUseAnimation -> m_6164_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1000Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem$1/getUses()I from net/minecraft/world/item/Tier/getUses()I: getUses -> m_6609_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem$1/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem$1/getSpeed()F from net/minecraft/world/item/Tier/getSpeed()F: getSpeed -> m_6624_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1000Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem$1/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1000Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch1000Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem$1/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient; from net/minecraft/world/item/Tier/getRepairIngredient()Lnet/minecraft/world/item/crafting/Ingredient;: getRepairIngredient -> m_6282_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem$1/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem$1/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongswordItem$1/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch2000Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim; from net/minecraft/world/item/Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim;: getUseAnimation -> m_6164_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch2000Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch2000Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch2000Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch2000Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem$1/getEnchantmentValue()I from net/minecraft/world/item/Tier/getEnchantmentValue()I: getEnchantmentValue -> m_6601_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem$1/getLevel()I from net/minecraft/world/item/Tier/getLevel()I: getLevel -> m_6604_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/HongpickaxeItem$1/getAttackDamageBonus()F from net/minecraft/world/item/Tier/getAttackDamageBonus()F: getAttackDamageBonus -> m_6631_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim; from net/minecraft/world/item/Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim;: getUseAnimation -> m_6164_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for net/minecraftforge/event/BuildCreativeModeTabContentsEvent/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V from net/minecraft/world/item/CreativeModeTab$Output/accept(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/CreativeModeTab$TabVisibility;)V: accept -> m_246267_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000pinkItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000pinkItem/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim; from net/minecraft/world/item/Item/getUseAnimation(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/world/item/UseAnim;: getUseAnimation -> m_6164_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000pinkItem/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder; from net/minecraft/world/item/Item/use(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResultHolder;: use -> m_7203_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000pinkItem/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/item/Item/getUseDuration(Lnet/minecraft/world/item/ItemStack;)I: getUseDuration -> m_8105_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000pinkItem/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V from net/minecraft/world/item/Item/releaseUsing(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;I)V: releaseUsing -> m_5551_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Watch3000pinkItem/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z from net/minecraft/world/item/Item/hurtEnemy(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/LivingEntity;)Z: hurtEnemy -> m_7579_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/WatchmachineupdateItem/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V from net/minecraft/world/item/Item/appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V: appendHoverText -> m_7373_
+Conflicting propagated mapping for net/minecraftforge/common/BasicItemListing/getOffer(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;)Lnet/minecraft/world/item/trading/MerchantOffer; from net/minecraft/world/entity/npc/VillagerTrades$ItemListing/getOffer(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/util/RandomSource;)Lnet/minecraft/world/item/trading/MerchantOffer;: getOffer -> m_213663_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key1Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key10Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key2Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key11Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key3Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key4Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key5Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key6Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key7Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key8Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/item/Key9Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/item/Item/isFoil(Lnet/minecraft/world/item/ItemStack;)Z: isFoil -> m_5812_
+Conflicting propagated mapping for net/mcreator/hongxusworld/network/HongxusWorldModVariables$MapVariables/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag; from net/minecraft/world/level/saveddata/SavedData/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag;: save -> m_7176_
+Conflicting propagated mapping for net/mcreator/hongxusworld/network/HongxusWorldModVariables$WorldVariables/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag; from net/minecraft/world/level/saveddata/SavedData/save(Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/nbt/CompoundTag;: save -> m_7176_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator/type()Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecoratorType; from net/minecraft/world/level/levelgen/feature/treedecorators/CocoaDecorator/type()Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecoratorType;: type -> m_6663_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator/place(Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;)V from net/minecraft/world/level/levelgen/feature/treedecorators/CocoaDecorator/place(Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;)V: place -> m_214187_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldLeaveDecorator/type()Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecoratorType; from net/minecraft/world/level/levelgen/feature/treedecorators/LeaveVineDecorator/type()Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecoratorType;: type -> m_6663_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator/lambda$place$2(Lnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;Lnet/minecraft/core/BlockPos;)V from net/minecraft/world/level/levelgen/feature/treedecorators/CocoaDecorator/lambda$place$2(Lnet/minecraft/util/RandomSource;Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;Lnet/minecraft/core/BlockPos;)V: lambda$place$2 -> m_226023_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldTrunkDecorator/type()Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecoratorType; from net/minecraft/world/level/levelgen/feature/treedecorators/TrunkVineDecorator/type()Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecoratorType;: type -> m_6663_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldLeaveDecorator/place(Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;)V from net/minecraft/world/level/levelgen/feature/treedecorators/LeaveVineDecorator/place(Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;)V: place -> m_214187_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldTrunkDecorator/place(Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;)V from net/minecraft/world/level/levelgen/feature/treedecorators/TrunkVineDecorator/place(Lnet/minecraft/world/level/levelgen/feature/treedecorators/TreeDecorator$Context;)V: place -> m_214187_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator/lambda$place$1(ILnet/minecraft/core/BlockPos;)Z from net/minecraft/world/level/levelgen/feature/treedecorators/CocoaDecorator/lambda$place$1(ILnet/minecraft/core/BlockPos;)Z: lambda$place$1 -> m_69978_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/set(Lnet/minecraft/world/item/ItemStack;)V from net/minecraft/world/inventory/Slot/set(Lnet/minecraft/world/item/ItemStack;)V: set -> m_5852_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraft/world/inventory/Slot/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/remove(I)Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/Slot/remove(I)Lnet/minecraft/world/item/ItemStack;: remove -> m_6201_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/onQuickCraft(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)V from net/minecraft/world/inventory/Slot/onQuickCraft(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)V: onQuickCraft -> m_40234_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getItem()Lnet/minecraft/world/item/ItemStack; from net/minecraft/world/inventory/Slot/getItem()Lnet/minecraft/world/item/ItemStack;: getItem -> m_7993_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getMaxStackSize(Lnet/minecraft/world/item/ItemStack;)I from net/minecraft/world/inventory/Slot/getMaxStackSize(Lnet/minecraft/world/item/ItemStack;)I: getMaxStackSize -> m_5866_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/mayPickup(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/world/inventory/Slot/mayPickup(Lnet/minecraft/world/entity/player/Player;)Z: mayPickup -> m_8010_
+Conflicting propagated mapping for net/minecraftforge/items/SlotItemHandler/getMaxStackSize()I from net/minecraft/world/inventory/Slot/getMaxStackSize()I: getMaxStackSize -> m_6641_
+Conflicting propagated mapping for net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu$2/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z from net/minecraftforge/items/SlotItemHandler/mayPlace(Lnet/minecraft/world/item/ItemStack;)Z: mayPlace -> m_5857_
+Adding extras
+Sorting
+Writing Output: I:\hongxu\build\libs\modid-1.0.jar
+  META-INF/
+  META-INF/MANIFEST.MF
+  META-INF/accesstransformer.cfg
+  META-INF/jarjar/
+  META-INF/jarjar/metadata.json
+  META-INF/jarjar/mixinextras-forge-0.5.0.jar
+  META-INF/mods.toml
+  assets/
+  assets/hongxus_world/
+  assets/hongxus_world/blockstates/
+  assets/hongxus_world/blockstates/hong_ore.json
+  assets/hongxus_world/blockstates/hongstonebricks.json
+  assets/hongxus_world/blockstates/honsneyworker.json
+  assets/hongxus_world/blockstates/redblock.json
+  assets/hongxus_world/blockstates/redbrokenore.json
+  assets/hongxus_world/blockstates/redstone.json
+  assets/hongxus_world/blockstates/redtreeleaves.json
+  assets/hongxus_world/blockstates/redtreelog.json
+  assets/hongxus_world/blockstates/redtreeplanks.json
+  assets/hongxus_world/blockstates/redtreesapling.json
+  assets/hongxus_world/blockstates/reredcobblestone.json
+  assets/hongxus_world/blockstates/strippedredtree_log.json
+  assets/hongxus_world/blockstates/watchmachine.json
+  assets/hongxus_world/lang/
+  assets/hongxus_world/lang/en_us.json
+  assets/hongxus_world/lang/zh_cn.json
+  assets/hongxus_world/models/
+  assets/hongxus_world/models/block/
+  assets/hongxus_world/models/block/hong_ore.json
+  assets/hongxus_world/models/block/hongstonebricks.json
+  assets/hongxus_world/models/block/honsneyworker.json
+  assets/hongxus_world/models/block/redblock.json
+  assets/hongxus_world/models/block/redbrokenore.json
+  assets/hongxus_world/models/block/redstone.json
+  assets/hongxus_world/models/block/redtreeleaves.json
+  assets/hongxus_world/models/block/redtreelog.json
+  assets/hongxus_world/models/block/redtreeplanks.json
+  assets/hongxus_world/models/block/redtreesapling.json
+  assets/hongxus_world/models/block/reredcobblestone.json
+  assets/hongxus_world/models/block/strippedredtree_log.json
+  assets/hongxus_world/models/block/watchmachine.json
+  assets/hongxus_world/models/item/
+  assets/hongxus_world/models/item/hong_ingot.json
+  assets/hongxus_world/models/item/hong_ore.json
+  assets/hongxus_world/models/item/hongnuggets.json
+  assets/hongxus_world/models/item/hongpickaxe.json
+  assets/hongxus_world/models/item/hongstonebricks.json
+  assets/hongxus_world/models/item/hongsword.json
+  assets/hongxus_world/models/item/honsneyworker.json
+  assets/hongxus_world/models/item/hx_spawn_egg.json
+  assets/hongxus_world/models/item/key_1.json
+  assets/hongxus_world/models/item/key_10.json
+  assets/hongxus_world/models/item/key_11.json
+  assets/hongxus_world/models/item/key_2.json
+  assets/hongxus_world/models/item/key_3.json
+  assets/hongxus_world/models/item/key_4.json
+  assets/hongxus_world/models/item/key_5.json
+  assets/hongxus_world/models/item/key_6.json
+  assets/hongxus_world/models/item/key_7.json
+  assets/hongxus_world/models/item/key_8.json
+  assets/hongxus_world/models/item/key_9.json
+  assets/hongxus_world/models/item/normalwatch.json
+  assets/hongxus_world/models/item/pushingtorch.json
+  assets/hongxus_world/models/item/redblock.json
+  assets/hongxus_world/models/item/redbrokenore.json
+  assets/hongxus_world/models/item/redplate.json
+  assets/hongxus_world/models/item/redstone.json
+  assets/hongxus_world/models/item/redtreeleaves.json
+  assets/hongxus_world/models/item/redtreelog.json
+  assets/hongxus_world/models/item/redtreeplanks.json
+  assets/hongxus_world/models/item/redtreesapling.json
+  assets/hongxus_world/models/item/reredcobblestone.json
+  assets/hongxus_world/models/item/rubbish.json
+  assets/hongxus_world/models/item/shouwo.json
+  assets/hongxus_world/models/item/starbucks.json
+  assets/hongxus_world/models/item/strippedredtree_log.json
+  assets/hongxus_world/models/item/watch_1.json
+  assets/hongxus_world/models/item/watch_1000.json
+  assets/hongxus_world/models/item/watch_2000.json
+  assets/hongxus_world/models/item/watch_3000.json
+  assets/hongxus_world/models/item/watch_3000pink.json
+  assets/hongxus_world/models/item/watch_500.json
+  assets/hongxus_world/models/item/watchmachine.json
+  assets/hongxus_world/models/item/watchmachineupdate.json
+  assets/hongxus_world/textures/
+  assets/hongxus_world/textures/block/
+  assets/hongxus_world/textures/block/clockarrow.png
+  assets/hongxus_world/textures/block/hong_block.png
+  assets/hongxus_world/textures/block/hong_ore.png
+  assets/hongxus_world/textures/block/honsney_worker.png
+  assets/hongxus_world/textures/block/honsney_worker_side.png
+  assets/hongxus_world/textures/block/red_leave.png
+  assets/hongxus_world/textures/block/red_ore_break.png
+  assets/hongxus_world/textures/block/redcobblestone.png
+  assets/hongxus_world/textures/block/redstone.png
+  assets/hongxus_world/textures/block/redtree_planks.png
+  assets/hongxus_world/textures/block/redtree_sapling.png
+  assets/hongxus_world/textures/block/redtree_side.png
+  assets/hongxus_world/textures/block/redtree_top.png
+  assets/hongxus_world/textures/block/spawn_hx.png
+  assets/hongxus_world/textures/block/stripped_redtree_side.png
+  assets/hongxus_world/textures/block/stripped_redtree_top.png
+  assets/hongxus_world/textures/block/watchmachine_front.png
+  assets/hongxus_world/textures/block/watchmachine_side.png
+  assets/hongxus_world/textures/entities/
+  assets/hongxus_world/textures/entities/chestboss.png
+  assets/hongxus_world/textures/entities/cowboss.png
+  assets/hongxus_world/textures/entities/crepper_boss.png
+  assets/hongxus_world/textures/entities/furinaboss.png
+  assets/hongxus_world/textures/entities/himboss.png
+  assets/hongxus_world/textures/entities/hutaoboss.png
+  assets/hongxus_world/textures/entities/kleeboss.png
+  assets/hongxus_world/textures/entities/narutoboss.png
+  assets/hongxus_world/textures/entities/qiqiboss.png
+  assets/hongxus_world/textures/entities/skinseedskin_1770383192349.png
+  assets/hongxus_world/textures/entities/slimeboss.png
+  assets/hongxus_world/textures/entities/tntboss.png
+  assets/hongxus_world/textures/entities/toolsmith.png
+  assets/hongxus_world/textures/entity/
+  assets/hongxus_world/textures/entity/villager/
+  assets/hongxus_world/textures/entity/villager/profession/
+  assets/hongxus_world/textures/entity/villager/profession/honsneyvillager.png
+  assets/hongxus_world/textures/entity/villager/profession/honsneyvillager.png.mcmeta
+  assets/hongxus_world/textures/entity/zombie_villager/
+  assets/hongxus_world/textures/entity/zombie_villager/profession/
+  assets/hongxus_world/textures/entity/zombie_villager/profession/honsneyvillager.png
+  assets/hongxus_world/textures/item/
+  assets/hongxus_world/textures/item/clock_arrow.png
+  assets/hongxus_world/textures/item/hong_ingot.png
+  assets/hongxus_world/textures/item/hong_pickaxe.png
+  assets/hongxus_world/textures/item/key1.png
+  assets/hongxus_world/textures/item/key10.png
+  assets/hongxus_world/textures/item/key11.png
+  assets/hongxus_world/textures/item/key2.png
+  assets/hongxus_world/textures/item/key3.png
+  assets/hongxus_world/textures/item/key4.png
+  assets/hongxus_world/textures/item/key5.png
+  assets/hongxus_world/textures/item/key6.png
+  assets/hongxus_world/textures/item/key7.png
+  assets/hongxus_world/textures/item/key8.png
+  assets/hongxus_world/textures/item/key9.png
+  assets/hongxus_world/textures/item/normal_watch.png
+  assets/hongxus_world/textures/item/red_nuggets.png
+  assets/hongxus_world/textures/item/red_plate.png
+  assets/hongxus_world/textures/item/red_sampling.png
+  assets/hongxus_world/textures/item/red_sword.png
+  assets/hongxus_world/textures/item/redheart.png
+  assets/hongxus_world/textures/item/rubbish.png
+  assets/hongxus_world/textures/item/shou_wo_.png
+  assets/hongxus_world/textures/item/starbucks.png
+  assets/hongxus_world/textures/item/watch_1.png
+  assets/hongxus_world/textures/item/watch_1000.png
+  assets/hongxus_world/textures/item/watch_2000.png
+  assets/hongxus_world/textures/item/watch_3000.png
+  assets/hongxus_world/textures/item/watch_3000_pink.png
+  assets/hongxus_world/textures/item/watch_500.png
+  assets/hongxus_world/textures/item/watchmachineupdate.png
+  assets/hongxus_world/textures/screens/
+  assets/hongxus_world/textures/screens/hongxusworldmodmenus.png
+  data/
+  data/hongxus_world/
+  data/hongxus_world/advancements/
+  data/hongxus_world/advancements/igethongxuingot.json
+  data/hongxus_world/advancements/recipes/
+  data/hongxus_world/advancements/recipes/brokenredoretransform.json
+  data/hongxus_world/advancements/recipes/burninghongore.json
+  data/hongxus_world/advancements/recipes/redcobblestoneto_redstone.json
+  data/hongxus_world/forge/
+  data/hongxus_world/forge/biome_modifier/
+  data/hongxus_world/forge/biome_modifier/hong_ore_biome_modifier.json
+  data/hongxus_world/forge/biome_modifier/redbrokenore_biome_modifier.json
+  data/hongxus_world/forge/biome_modifier/redtree_biome_modifier.json
+  data/hongxus_world/forge/biome_modifier/stone_biome_modifier.json
+  data/hongxus_world/loot_tables/
+  data/hongxus_world/loot_tables/blocks/
+  data/hongxus_world/loot_tables/blocks/hong_ore.json
+  data/hongxus_world/loot_tables/blocks/hongstonebricks.json
+  data/hongxus_world/loot_tables/blocks/honsneyworker.json
+  data/hongxus_world/loot_tables/blocks/redblock.json
+  data/hongxus_world/loot_tables/blocks/redbrokenore.json
+  data/hongxus_world/loot_tables/blocks/redstone.json
+  data/hongxus_world/loot_tables/blocks/redtreeleaves.json
+  data/hongxus_world/loot_tables/blocks/redtreelog.json
+  data/hongxus_world/loot_tables/blocks/redtreeplanks.json
+  data/hongxus_world/loot_tables/blocks/redtreesapling.json
+  data/hongxus_world/loot_tables/blocks/reredcobblestone.json
+  data/hongxus_world/loot_tables/blocks/strippedredtree_log.json
+  data/hongxus_world/loot_tables/blocks/watchmachine.json
+  data/hongxus_world/recipes/
+  data/hongxus_world/recipes/basicwatch.json
+  data/hongxus_world/recipes/brokenblock.json
+  data/hongxus_world/recipes/brokenredoretransform.json
+  data/hongxus_world/recipes/burninghongore.json
+  data/hongxus_world/recipes/h_pickaxe.json
+  data/hongxus_world/recipes/haxe.json
+  data/hongxus_world/recipes/hhoe.json
+  data/hongxus_world/recipes/hongxpickaxe.json
+  data/hongxus_world/recipes/hongxsword.json
+  data/hongxus_world/recipes/honsneybrickget.json
+  data/hongxus_world/recipes/honsneyworkerget.json
+  data/hongxus_world/recipes/hshovel.json
+  data/hongxus_world/recipes/hsword.json
+  data/hongxus_world/recipes/makeblocks.json
+  data/hongxus_world/recipes/nuggetmaking.json
+  data/hongxus_world/recipes/nuggetsintoingot.json
+  data/hongxus_world/recipes/plate.json
+  data/hongxus_world/recipes/red_craftingtable.json
+  data/hongxus_world/recipes/redbricksmaking.json
+  data/hongxus_world/recipes/redcobblestoneto_redstone.json
+  data/hongxus_world/recipes/redtreeplank.json
+  data/hongxus_world/recipes/shouwocreate.json
+  data/hongxus_world/recipes/stoneaxe.json
+  data/hongxus_world/recipes/stonehoe.json
+  data/hongxus_world/recipes/stonepickaxe.json
+  data/hongxus_world/recipes/stoneshowel.json
+  data/hongxus_world/recipes/stonesword.json
+  data/hongxus_world/recipes/strippedredtreeplank.json
+  data/hongxus_world/recipes/torch.json
+  data/hongxus_world/recipes/torchmaking.json
+  data/hongxus_world/worldgen/
+  data/hongxus_world/worldgen/biome/
+  data/hongxus_world/worldgen/biome/redworld.json
+  data/hongxus_world/worldgen/configured_feature/
+  data/hongxus_world/worldgen/configured_feature/hong_ore.json
+  data/hongxus_world/worldgen/configured_feature/redbrokenore.json
+  data/hongxus_world/worldgen/configured_feature/redtree.json
+  data/hongxus_world/worldgen/configured_feature/redworld_tree.json
+  data/hongxus_world/worldgen/configured_feature/stone.json
+  data/hongxus_world/worldgen/placed_feature/
+  data/hongxus_world/worldgen/placed_feature/hong_ore.json
+  data/hongxus_world/worldgen/placed_feature/redbrokenore.json
+  data/hongxus_world/worldgen/placed_feature/redtree.json
+  data/hongxus_world/worldgen/placed_feature/redworld_tree.json
+  data/hongxus_world/worldgen/placed_feature/stone.json
+  data/minecraft/
+  data/minecraft/loot_tables/
+  data/minecraft/loot_tables/blocks/
+  data/minecraft/loot_tables/blocks/redtreelog.json
+  data/minecraft/tags/
+  data/minecraft/tags/blocks/
+  data/minecraft/tags/blocks/mineable/
+  data/minecraft/tags/blocks/mineable/axe.json
+  data/minecraft/tags/blocks/mineable/pickaxe.json
+  data/minecraft/tags/blocks/needs_iron_tool.json
+  data/minecraft/tags/blocks/saplings.json
+  data/minecraft/tags/items/
+  data/minecraft/tags/items/pickaxes.json
+  data/minecraft/tags/items/piglin_loved.json
+  data/minecraft/tags/items/swords.json
+  data/minecraft/tags/point_of_interest_type/
+  data/minecraft/tags/point_of_interest_type/acquirable_job_site.json
+  data/minecraft/tags/worldgen/
+  data/minecraft/tags/worldgen/biome/
+  data/minecraft/tags/worldgen/biome/has_structure/
+  data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json
+  data/minecraft/tags/worldgen/biome/has_structure/village_plains.json
+  hongxus_world.mixins.json
+  hongxus_world.refmap.json
+  net/
+  net/mcreator/
+  net/mcreator/hongxusworld/
+  net/mcreator/hongxusworld/HongxusWorldMod.class
+  net/mcreator/hongxusworld/block/
+  net/mcreator/hongxusworld/block/HongoreBlock.class
+  net/mcreator/hongxusworld/block/HongstonebricksBlock.class
+  net/mcreator/hongxusworld/block/HonsneyworkerBlock.class
+  net/mcreator/hongxusworld/block/RedblockBlock.class
+  net/mcreator/hongxusworld/block/RedbrokenoreBlock.class
+  net/mcreator/hongxusworld/block/RedstoneBlock.class
+  net/mcreator/hongxusworld/block/RedtreeleavesBlock.class
+  net/mcreator/hongxusworld/block/RedtreelogBlock.class
+  net/mcreator/hongxusworld/block/RedtreeplanksBlock.class
+  net/mcreator/hongxusworld/block/RedtreesaplingBlock.class
+  net/mcreator/hongxusworld/block/ReredcobblestoneBlock.class
+  net/mcreator/hongxusworld/block/StrippedredtreeLogBlock.class
+  net/mcreator/hongxusworld/block/WatchmachineBlock$1.class
+  net/mcreator/hongxusworld/block/WatchmachineBlock.class
+  net/mcreator/hongxusworld/block/grower/
+  net/mcreator/hongxusworld/block/grower/RedtreesaplingTreeGrower.class
+  net/mcreator/hongxusworld/client/
+  net/mcreator/hongxusworld/client/gui/
+  net/mcreator/hongxusworld/client/gui/WatchmachineguiScreen.class
+  net/mcreator/hongxusworld/client/renderer/
+  net/mcreator/hongxusworld/client/renderer/HxRenderer.class
+  net/mcreator/hongxusworld/entity/
+  net/mcreator/hongxusworld/entity/HxEntity$1.class
+  net/mcreator/hongxusworld/entity/HxEntity$2.class
+  net/mcreator/hongxusworld/entity/HxEntity.class
+  net/mcreator/hongxusworld/entity/WatchEntity.class
+  net/mcreator/hongxusworld/init/
+  net/mcreator/hongxusworld/init/HongxusWorldModBiomes$HongxusWorldModNoiseGeneratorSettings.class
+  net/mcreator/hongxusworld/init/HongxusWorldModBiomes.class
+  net/mcreator/hongxusworld/init/HongxusWorldModBlocks.class
+  net/mcreator/hongxusworld/init/HongxusWorldModEntities.class
+  net/mcreator/hongxusworld/init/HongxusWorldModEntityRenderers.class
+  net/mcreator/hongxusworld/init/HongxusWorldModItems.class
+  net/mcreator/hongxusworld/init/HongxusWorldModMenus$MenuAccessor.class
+  net/mcreator/hongxusworld/init/HongxusWorldModMenus.class
+  net/mcreator/hongxusworld/init/HongxusWorldModScreens$ScreenAccessor.class
+  net/mcreator/hongxusworld/init/HongxusWorldModScreens.class
+  net/mcreator/hongxusworld/init/HongxusWorldModTabs.class
+  net/mcreator/hongxusworld/init/HongxusWorldModTrades.class
+  net/mcreator/hongxusworld/init/HongxusWorldModVillagerProfessions$ProfessionPoiType.class
+  net/mcreator/hongxusworld/init/HongxusWorldModVillagerProfessions.class
+  net/mcreator/hongxusworld/item/
+  net/mcreator/hongxusworld/item/HongingotItem.class
+  net/mcreator/hongxusworld/item/HongnuggetsItem.class
+  net/mcreator/hongxusworld/item/HongpickaxeItem$1.class
+  net/mcreator/hongxusworld/item/HongpickaxeItem.class
+  net/mcreator/hongxusworld/item/HongswordItem$1.class
+  net/mcreator/hongxusworld/item/HongswordItem.class
+  net/mcreator/hongxusworld/item/Key10Item.class
+  net/mcreator/hongxusworld/item/Key11Item.class
+  net/mcreator/hongxusworld/item/Key1Item.class
+  net/mcreator/hongxusworld/item/Key2Item.class
+  net/mcreator/hongxusworld/item/Key3Item.class
+  net/mcreator/hongxusworld/item/Key4Item.class
+  net/mcreator/hongxusworld/item/Key5Item.class
+  net/mcreator/hongxusworld/item/Key6Item.class
+  net/mcreator/hongxusworld/item/Key7Item.class
+  net/mcreator/hongxusworld/item/Key8Item.class
+  net/mcreator/hongxusworld/item/Key9Item.class
+  net/mcreator/hongxusworld/item/NormalwatchItem.class
+  net/mcreator/hongxusworld/item/PushingtorchItem.class
+  net/mcreator/hongxusworld/item/RedplateItem.class
+  net/mcreator/hongxusworld/item/RubbishItem.class
+  net/mcreator/hongxusworld/item/ShouwoItem.class
+  net/mcreator/hongxusworld/item/StarbucksItem.class
+  net/mcreator/hongxusworld/item/Watch1000Item.class
+  net/mcreator/hongxusworld/item/Watch1Item.class
+  net/mcreator/hongxusworld/item/Watch2000Item.class
+  net/mcreator/hongxusworld/item/Watch3000Item.class
+  net/mcreator/hongxusworld/item/Watch3000pinkItem.class
+  net/mcreator/hongxusworld/item/Watch500Item.class
+  net/mcreator/hongxusworld/item/WatchmachineupdateItem.class
+  net/mcreator/hongxusworld/mixin/
+  net/mcreator/hongxusworld/mixin/NoiseGeneratorSettingsMixin.class
+  net/mcreator/hongxusworld/network/
+  net/mcreator/hongxusworld/network/HongxusWorldModVariables$EventBusVariableHandlers.class
+  net/mcreator/hongxusworld/network/HongxusWorldModVariables$MapVariables.class
+  net/mcreator/hongxusworld/network/HongxusWorldModVariables$SavedDataSyncMessage.class
+  net/mcreator/hongxusworld/network/HongxusWorldModVariables$WorldVariables.class
+  net/mcreator/hongxusworld/network/HongxusWorldModVariables.class
+  net/mcreator/hongxusworld/network/MenuStateUpdateMessage.class
+  net/mcreator/hongxusworld/network/WatchmachineguiButtonMessage.class
+  net/mcreator/hongxusworld/procedures/
+  net/mcreator/hongxusworld/procedures/HongpickaxeGongJuZaiShouShangShiMeiKeFaShengProcedure.class
+  net/mcreator/hongxusworld/procedures/HongswordShengWuBeiGongJuJiZhongShiProcedure.class
+  net/mcreator/hongxusworld/procedures/HxZiRanShiTiShengChengTiaoJianProcedure.class
+  net/mcreator/hongxusworld/procedures/MakewatchProcedure.class
+  net/mcreator/hongxusworld/procedures/MoProcedure.class
+  net/mcreator/hongxusworld/procedures/RedtreeleavesEWaiDeShouJiTiaoJianProcedure.class
+  net/mcreator/hongxusworld/procedures/RedtreeleavesFangKuaiBeiWanJiaPoPiShiProcedure.class
+  net/mcreator/hongxusworld/procedures/ShouwoWanJiaWanChengShiYongWuPinShiProcedure.class
+  net/mcreator/hongxusworld/procedures/Watch1ShengWuBeiCiWuPinJiZhongProcedure.class
+  net/mcreator/hongxusworld/procedures/WatchmachineguiCiGUIGuanBiShiProcedure.class
+  net/mcreator/hongxusworld/world/
+  net/mcreator/hongxusworld/world/features/
+  net/mcreator/hongxusworld/world/features/treedecorators/
+  net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator$1.class
+  net/mcreator/hongxusworld/world/features/treedecorators/RedworldFruitDecorator.class
+  net/mcreator/hongxusworld/world/features/treedecorators/RedworldLeaveDecorator$1.class
+  net/mcreator/hongxusworld/world/features/treedecorators/RedworldLeaveDecorator.class
+  net/mcreator/hongxusworld/world/features/treedecorators/RedworldTrunkDecorator$1.class
+  net/mcreator/hongxusworld/world/features/treedecorators/RedworldTrunkDecorator.class
+  net/mcreator/hongxusworld/world/inventory/
+  net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu$1.class
+  net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu$2.class
+  net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu$3.class
+  net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu$4.class
+  net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu$5.class
+  net/mcreator/hongxusworld/world/inventory/WatchmachineguiMenu.class
+  pack.mcmeta

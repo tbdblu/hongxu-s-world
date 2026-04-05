@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hongxus_world:pushingtorch"
+    },
+    {
+      "item": "hongxus_world:hong_ingot"
+    }
+  ],
+  "result": {
+    "item": "hongxus_world:redplate",
+    "count": 1
+  }
+}

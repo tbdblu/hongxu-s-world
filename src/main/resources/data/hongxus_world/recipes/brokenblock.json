@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hongxus_world:redblock"
+    }
+  ],
+  "result": {
+    "item": "hongxus_world:hong_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hongxus_world:hong_ingot"
+    },
+    "b": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "item": "hongxus_world:normalwatch",
+    "count": 1
+  }
+}

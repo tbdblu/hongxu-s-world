@@ -1,0 +1,16 @@
+{
+  "_fv": 79,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Honsneyvillager",
+    "pointOfInterest": {
+      "value": "CUSTOM:Honsneyworker"
+    },
+    "actionSound": {
+      "value": "entity.villager.work_armorer"
+    },
+    "hat": "Partial",
+    "professionTextureFile": "toolsmith.png",
+    "zombifiedProfessionTextureFile": "toolsmith.png"
+  }
+}

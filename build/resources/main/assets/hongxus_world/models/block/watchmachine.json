@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hongxus_world:block/watchmachine_side",
+    "up": "hongxus_world:block/watchmachine_side",
+    "north": "hongxus_world:block/watchmachine_front",
+    "east": "hongxus_world:block/watchmachine_side",
+    "south": "hongxus_world:block/watchmachine_side",
+    "west": "hongxus_world:block/watchmachine_side",
+    "particle": "hongxus_world:block/watchmachine_side"
+  },
+  "render_type": "solid"
+}
